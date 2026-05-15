@@ -59,7 +59,7 @@ const char* WIFI_PASS = "**********s"; //YOUR WIFI PASSWORD
 
 // ─── NTP ─────────────────────────────────────────────────────
 const char* NTP_SERVER = "pool.ntp.org";
-const long  GMT_OFFSET = 7 * 3600;   // WIB UTC+7
+const long  GMT_OFFSET = xxx * xxx;   // YOUR GMT
 const int   DST_OFFSET = 0;
 
 // ─── STATE ───────────────────────────────────────────────────
